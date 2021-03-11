@@ -4,7 +4,7 @@
 ## Part 1
 If we are basing the potential for fraud to be directly correlated to a high number of small transactions then I would have to say that more than half of the cardholders are potentially at risk for fraud. Thirteen cardholders have fifteen or more transactions under two dollars which means they are potentially all at risk.  I would need to look at more data associated with these cardholders in order to better detect fraudulant transactions.
 
-Out of 3500 transactions 419 of them occur between the hours of 7AM and 9AM.  Therefore, 1 in 8 transactions occur during those hours, which seems relatively average. If all mulitple transactions occured between these hours on the same day it may indicated fraud but it looks as though all 419 transactions occur on different days. That being said. it does look like cardholder ID 1 and cardholder ID 16 have multiple very high transactions during the hours of 7AM and 9AM. Cardholder ID 1 and cardholder ID 16 should both be contacted to verify their purchases.
+Out of 3500 transactions 419 of them occur between the hours of 7AM and 9AM.  Therefore, 1 in 8 transactions occur during those hours, which seems relatively average. If all mulitple transactions occured between these hours on the same day it may indicate fraud but it looks as though all 419 transactions occur on different days. That being said. it does look like cardholder ID 1 and cardholder ID 16 have multiple very high transactions during the hours of 7AM and 9AM. Cardholder ID 1 and cardholder ID 16 should both be contacted to verify their purchases.
 
 
 ## Part 2
